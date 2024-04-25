@@ -1,0 +1,39 @@
+/* SearchItemsViewController */
+"searchControllerTitle" = "Медиа-контент";
+"searchControllerPlaceholder" = "Поиск медиа-контента";
+"Unknown" = "Неизвестно";
+"backButtonTitle" = "Назад";
+"errorAlertTitle" = "Ошибка";
+"OK" = "Хорошо";
+"dateFormat" = "dd MMM yyyy";
+
+/* SearchFiltersViewController */
+"filtersControllerTitle" = "Фильтры";
+"filtersMediaTypeTitle" = "Тип медиа-контента";
+"filtersExplicitTitle" = "Включать откровенный контент";
+"filtersCountryTitle" = "Страна магазина";
+"filtersLimitTitle" = "Лимит на количество результатов";
+"filtersApplyButtonTitle" = "Показать результаты";
+"Yes" = "Да";
+"No" = "Нет";
+"Music" = "Музыка";
+"Movie" = "Фильм";
+"Ebook" = "Эл. книга";
+"music" = "музыка";
+"movie" = "фильм";
+"ebook" = "эл. книга";
+"song" = "песня";
+
+/* Errors */
+"createURLFailed" = "Не удалось создать URL";
+"statusCodeFailed" = "Получен плохой статус код";
+"requestFailed" = "Запрос не удалось выполнить";
+"getDataFailed" = "Не удалось получить данные";
+"noInternetConnection" = "Нет соединения с интернетом";
+
+/* Content View */
+"descriptionTitle" = "Описание";
+"albumsTitle" = "Альбомы";
+"mediaButtonTitle" = "Показать в Apple";
+"lookupError" = "Не все данные доступны";
+"errorTitle" = "Ошибка";

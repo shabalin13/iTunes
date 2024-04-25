@@ -1,0 +1,39 @@
+/* SearchItemsViewController */
+"searchControllerTitle" = "Media-content";
+"searchControllerPlaceholder" = "Search media-content";
+"Unknown" = "Unknown";
+"backButtonTitle" = "Back";
+"errorAlertTitle" = "Error";
+"OK" = "OK";
+"dateFormat" = "MMM dd, yyyy";
+
+/* SearchFiltersViewController */
+"filtersControllerTitle" = "Filters";
+"filtersMediaTypeTitle" = "Media-content type";
+"filtersExplicitTitle" = "Include explicit content";
+"filtersCountryTitle" = "Store country";
+"filtersLimitTitle" = "Limit on the number of results";
+"filtersApplyButtonTitle" = "Show results";
+"Yes" = "Yes";
+"No" = "No";
+"Music" = "Music";
+"Movie" = "Movie";
+"Ebook" = "Ebook";
+"music" = "music";
+"movie" = "movie";
+"ebook" = "ebook";
+"song" = "song";
+
+/* Errors */
+"createURLFailed" = "Failed to create URL";
+"statusCodeFailed" = "Got bad status code";
+"requestFailed" = "Request failed";
+"getDataFailed" = "Failed to get data";
+"noInternetConnection" = "No Internet connection";
+
+/* Content View */
+"descriptionTitle" = "Description";
+"albumsTitle" = "Albums";
+"mediaButtonTitle" = "Show in Apple";
+"lookupError" = "Not all data is available";
+"errorTitle" = "Error";

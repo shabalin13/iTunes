@@ -1,0 +1,1 @@
+typealias HistoryItem = String
